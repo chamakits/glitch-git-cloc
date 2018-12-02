@@ -1,0 +1,4 @@
+node_modules/
+.data/
+NEVER_COMMIT/
+dist/
